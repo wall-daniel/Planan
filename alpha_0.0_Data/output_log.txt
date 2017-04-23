@@ -2,10 +2,10 @@ Mono path[0] = 'C:/Users/Daniel Wall/Unity_Projects/Ludum Dare/alpha_0.0_Data/Ma
 Mono path[1] = 'C:/Users/Daniel Wall/Unity_Projects/Ludum Dare/alpha_0.0_Data/Mono'
 Mono config path = 'C:/Users/Daniel Wall/Unity_Projects/Ludum Dare/alpha_0.0_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/Daniel Wall/Unity_Projects/Ludum Dare/alpha_0.0_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55506
-Multi-casting "[IP] 192.168.1.4 [Port] 55506 [Flags] 2 [Guid] 399259261 [EditorId] 4260864127 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q87BAHU) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55506]
-PlayerConnection already initialized - listening to [0.0.0.0:55506]
+PlayerConnection initialized network socket : 0.0.0.0 55360
+Multi-casting "[IP] 192.168.1.4 [Port] 55360 [Flags] 2 [Guid] 3928918214 [EditorId] 4260864127 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q87BAHU) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55360]
+PlayerConnection already initialized - listening to [0.0.0.0:55360]
 Initialize engine version: 5.5.2f1 (3829d7f588f3)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -25,14 +25,10 @@ Platform assembly: C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data
 Loading C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.101 seconds
+- Completed reload, in  0.093 seconds
 Platform assembly: C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Daniel Wall\Unity_Projects\Ludum Dare\alpha_0.0_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1200 59Hz; virtual: 3120x1600 at 0,-113
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 2.612261 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 21f4 -> priority: 1 
